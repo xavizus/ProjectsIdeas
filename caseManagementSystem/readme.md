@@ -1,6 +1,9 @@
 # Case Management system
 A system to be able to handle requests/issuses from users/customers
 
+# Insperation
+- Lime technologies: https://www.lime-technologies.se
+
 # Reqruirements
 - Should follow the foundation of ITIL. 
 - Should be able to track statics
@@ -22,6 +25,9 @@ A system to be able to handle requests/issuses from users/customers
 - Should be fast to startup
 - Should be able to send invoices
 - Should be able to create their own attributes / meta-data
+- Backend should be written in C++, with own written JSON parser, HTTP-server, networkcode and thread handler
+- Frontend should be written with assistance of the framework Angular or Svelte
+- Communication between C++ and frontend shall be done with RestAPI or GraphQL
 
 # Customer Card
 - Should contain:
